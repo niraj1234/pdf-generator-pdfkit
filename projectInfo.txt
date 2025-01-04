@@ -1,0 +1,16 @@
+
+==============
+Sample JSON data for POST request
+
+POST | localhost:3000/generate-pdf
+{ 
+	"title" : "mobile" , 
+	"name" : "Motorola G85" , 
+	"amount" : 54321 
+}
+
+Download API 
+GET | file:///C:/Users/Niraj/Downloads/output_1735972810130.pdf
+
+This link will be in the response of POST DATA 
+============================
